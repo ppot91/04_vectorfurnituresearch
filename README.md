@@ -1,5 +1,11 @@
 ## Furniture Vector Lab
 
+<img width="1898" height="1002" alt="image" src="https://github.com/user-attachments/assets/5fb52fd9-c28c-4800-9e95-271dd3aba8fa" />
+
+https://github.com/user-attachments/assets/f8dadd22-87f0-4938-963b-3e420efabcc5
+
+
+
 Learning project for experimenting with image-to-text pipelines, vector embeddings, and pgvector-backed similarity search.
 
 ### TL;DR
